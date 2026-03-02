@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "69a599b02d26b9740d50510e"
+  },
+  "titulo": "El Padrino",
+  "director": "Francis Ford Coppola",
+  "año": 1997,
+  "genero": "Drama",
+  "calificacion": 9.2,
+  "actores": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan"
+  ]
+}]
