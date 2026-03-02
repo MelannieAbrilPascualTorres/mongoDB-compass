@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "69a599b02d26b9740d50510e"
+  },
+  "titulo": "El Padrino",
+  "director": "Francis Ford Coppola",
+  "año": 1997,
+  "genero": "Drama",
+  "calificacion": 9.2,
+  "actores": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a5b8ff9253bafa13193423"
+  },
+  "titulo": "Pulp Fiction",
+  "director": "Quentin Tarantino",
+  "año": 1994,
+  "genero": "Crimen",
+  "calificacion": 8.9,
+  "actores": [
+    "John Travolta",
+    "Uma Thurman",
+    "Samuel L. Jackson"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a5b8ff9253bafa13193424"
+  },
+  "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+  "director": "Peter Jackson",
+  "año": 2001,
+  "genero": "Fantasía",
+  "calificacion": 8.8,
+  "actores": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a5b8ff9253bafa13193425"
+  },
+  "titulo": "Interestelar",
+  "director": "Christopher Nolan",
+  "año": 2014,
+  "genero": "Ciencia Ficción",
+  "calificacion": 8.6,
+  "actores": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Jessica Chastain"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a5b8ff9253bafa13193426"
+  },
+  "titulo": "Parásitos",
+  "director": "Bong Joon-ho",
+  "año": 2019,
+  "genero": "Drama",
+  "calificacion": 8.6,
+  "actores": [
+    "Song Kang-ho",
+    "Lee Sun-kyun",
+    "Cho Yeo-jeong"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a5ba169253bafa13193429"
+  },
+  "titulo": "Dune: Parte Dos",
+  "director": "Denis Villeneuve",
+  "año": 2024,
+  "genero": "Ciencia Ficción",
+  "calificacion": 8.7,
+  "actores": [
+    "Timothée Chalamet",
+    "Zendaya",
+    "Rebecca Ferguson"
+  ],
+  "comentarios": [
+    {
+      "usuario": "cinefila123",
+      "puntuacion": 9,
+      "comentario": "Visualmente impresionante, una obra maestra."
+    },
+    {
+      "usuario": "fan_del_libro",
+      "puntuacion": 8,
+      "comentario": "Buena adaptación, aunque se salta algunos detalles."
+    }
+  ]
+}]
