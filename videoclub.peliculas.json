@@ -99,4 +99,49 @@
       "comentario": "Buena adaptación, aunque se salta algunos detalles."
     }
   ]
+},
+{
+  "_id": {
+    "$oid": "69a8547bb13c9d5dfaa06109"
+  },
+  "titulo": "Toi estori",
+  "director": "John Lasseter",
+  "año": 1995,
+  "genero": "Animación",
+  "calificacion": 8.3,
+  "actores": [
+    "Tom Hanks ",
+    "Tim Allen",
+    "John Ratzenberger"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a855feb13c9d5dfaa0610a"
+  },
+  "titulo": "El Cadáver de la Novia",
+  "director": "Tin vurton",
+  "año": 2005,
+  "genero": "Fantástico Gótico",
+  "calificacion": 7.4,
+  "actores": [
+    "Johnny Depp",
+    "Helena Bonham Carter",
+    "Renato López y Natasha Pérez"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a857d6b13c9d5dfaa0610b"
+  },
+  "titulo": "sututopia",
+  "director": "Jared Bush",
+  "año": 2016,
+  "genero": "Animación",
+  "calificacion": 8,
+  "actores": [
+    "Ginifer gudwin",
+    "Jason Batenman",
+    "Idris Elba"
+  ]
 }]
